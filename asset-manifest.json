@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Tourist-Card/static/css/main.dac4ca76.css",
-    "main.js": "/Tourist-Card/static/js/main.96eb2d18.js",
-    "index.html": "/Tourist-Card/index.html",
-    "main.dac4ca76.css.map": "/Tourist-Card/static/css/main.dac4ca76.css.map",
-    "main.96eb2d18.js.map": "/Tourist-Card/static/js/main.96eb2d18.js.map"
+    "main.css": "/Tourist-Cards/static/css/main.dac4ca76.css",
+    "main.js": "/Tourist-Cards/static/js/main.96eb2d18.js",
+    "index.html": "/Tourist-Cards/index.html",
+    "main.dac4ca76.css.map": "/Tourist-Cards/static/css/main.dac4ca76.css.map",
+    "main.96eb2d18.js.map": "/Tourist-Cards/static/js/main.96eb2d18.js.map"
   },
   "entrypoints": [
     "static/css/main.dac4ca76.css",
